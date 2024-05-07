@@ -27,7 +27,6 @@ public class ShipMovement : MonoBehaviour
 
 
         //Controle por Vetores
-
         //transform.position += vector * speed * Time.deltaTime;
 
     }
